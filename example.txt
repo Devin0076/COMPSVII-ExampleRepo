@@ -8,3 +8,4 @@ My Grocery List
 - Frozen Pizza
 - Mini Muffins
 - Chocolate Milk
+- Potato
